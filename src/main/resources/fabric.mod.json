@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "magicsoup",
+  "version": "${version}",
+  "name": "Magic",
+  "description": "A mod that adds magic",
+  "authors": [
+    "icesoup"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/magicsoup/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.icesoup.magic.Magic"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}
