@@ -1,0 +1,11 @@
+{
+  "itemGroup.magicdust.general" : "Magic",
+
+  "item.magicdust.potato_dust" : "Potato Dust",
+  "item.magicdust.carrot_dust" : "Carrot Dust",
+  "item.magicdust.dried_potato" : "Dried Potato",
+  "item.magicdust.dried_carrot" : "Dried Carrot",
+  "item.magicdust.escape_rope" : "Escape Rope",
+  "item.magicdust.tenderizer" : "Tenderizer",
+  "block.magicdust.portal_residue": "Portal Residue"
+}

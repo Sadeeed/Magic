@@ -24,7 +24,7 @@ public class EscapeRopeItem extends Item {
     public TypedActionResult<ItemStack> use(World world, PlayerEntity user, Hand hand) {
         if(hand == Hand.MAIN_HAND)
         {
-            world.setBlockState(user.getBlockPos(), MagicBlocks.Escape_Portal.getDefaultState());
+            world.setBlockState(user.getBlockPos(), MagicBlocks.Portal_Residue.getDefaultState());
             System.out.println(user.getSpawnPosition());
             //user.teleport();
         }

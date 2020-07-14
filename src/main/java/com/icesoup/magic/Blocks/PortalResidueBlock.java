@@ -8,9 +8,9 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.BlockView;
 import net.minecraft.world.World;
 
-public class EscapePortalBlock extends Block {
+public class PortalResidueBlock extends Block {
 
-    public EscapePortalBlock(Settings settings) {
+    public PortalResidueBlock(Settings settings) {
         super(settings);
     }
 

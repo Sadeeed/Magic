@@ -20,11 +20,11 @@ public class MagicItems {
     public static void register()
     {
         //Register Items
-        Registry.register(Registry.ITEM, new Identifier("magicsoup","potato_dust"), Potato_Dust);
-        Registry.register(Registry.ITEM, new Identifier("magicsoup","carrot_dust"), Carrot_Dust);
-        Registry.register(Registry.ITEM, new Identifier("magicsoup","dried_potato"), Dried_Potato);
-        Registry.register(Registry.ITEM, new Identifier("magicsoup","dried_carrot"), Dried_Carrot);
-        Registry.register(Registry.ITEM, new Identifier("magicsoup","escape_rope"), Escape_Rope);
-        Registry.register(Registry.ITEM, new Identifier("magicsoup","tenderizer"), Tenderizer);
+        Registry.register(Registry.ITEM, new Identifier("magicdust","potato_dust"), Potato_Dust);
+        Registry.register(Registry.ITEM, new Identifier("magicdust","carrot_dust"), Carrot_Dust);
+        Registry.register(Registry.ITEM, new Identifier("magicdust","dried_potato"), Dried_Potato);
+        Registry.register(Registry.ITEM, new Identifier("magicdust","dried_carrot"), Dried_Carrot);
+        Registry.register(Registry.ITEM, new Identifier("magicdust","escape_rope"), Escape_Rope);
+        Registry.register(Registry.ITEM, new Identifier("magicdust","tenderizer"), Tenderizer);
     }
 }

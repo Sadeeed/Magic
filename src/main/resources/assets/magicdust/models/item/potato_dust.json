@@ -1,6 +1,6 @@
 {
   "parent" : "item/generated",
   "textures" : {
-    "layer0" : "magicsoup:item/potato_dust"
+    "layer0" : "magicdust:item/potato_dust"
   }
 }

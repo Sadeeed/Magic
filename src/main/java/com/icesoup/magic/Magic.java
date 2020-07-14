@@ -19,13 +19,13 @@ public class Magic implements ModInitializer {
 
     public static Logger LOGGER = LogManager.getLogger();
 
-    public static final String MOD_ID = "magicsoup";
+    public static final String MOD_ID = "magicdust";
     public static final String MOD_NAME = "Magic";
 
 
     //Define Mod Group
     public static final ItemGroup General = FabricItemGroupBuilder.create(
-            new Identifier("magicsoup", "general"))
+            new Identifier("magicdust", "general"))
             .icon(() -> new ItemStack(MagicItems.Potato_Dust)).build();
 
 

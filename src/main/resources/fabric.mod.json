@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "magicsoup",
+  "id": "magicdust",
   "version": "${version}",
   "name": "Magic",
   "description": "A mod that adds magic",
@@ -10,7 +10,7 @@
   "contributors": [],
   "contact": {},
   "license": "GPL-3.0",
-  "icon": "assets/magicsoup/icon.png",
+  "icon": "assets/magicdust/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
