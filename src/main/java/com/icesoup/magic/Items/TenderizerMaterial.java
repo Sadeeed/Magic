@@ -29,8 +29,8 @@ public class TenderizerMaterial implements ToolMaterial {
     }
 
     @Override
-    public float getMiningSpeed() {
-        return miningSpeed;
+    public float getMiningSpeedMultiplier() {
+        return 0;
     }
 
     @Override
